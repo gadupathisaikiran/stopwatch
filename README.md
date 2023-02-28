@@ -1,4 +1,7 @@
 # stopwatch
 
 
-![Screenshot (34)](https://user-images.githubusercontent.com/120211978/221864856-92ed43c0-fb6c-4fca-b2f9-395dfb9234c5.png)
+
+
+![Screenshot (34)](https://user-images.githubusercontent.com/120211978/221865250-972fa1e7-8850-4406-a402-dc4987dff3fe.png)
+![Screenshot (36)](https://user-images.githubusercontent.com/120211978/221865257-1e312340-98e0-4096-815a-885124909478.png)
