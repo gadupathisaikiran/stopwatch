@@ -1,0 +1,21 @@
+.container{
+
+    background-color: antiquewhite;
+    height: 1000px;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+    text-align: center;
+    
+   
+
+}
+.btn{
+    text-align: center;
+    cursor: pointer;
+}
+.display{
+
+    color: grey;
+}
+
